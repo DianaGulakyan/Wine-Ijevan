@@ -91,6 +91,8 @@ body{
   bottom: 200px;
   left: 125px;
   width: 800px;
+  text-decoration: none;
+  color: black;
 }
 .bloc3 .p2{
     position: relative;

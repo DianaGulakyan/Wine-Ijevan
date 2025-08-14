@@ -98,6 +98,8 @@ body{
       bottom: 233px;
       left: 225px;
       width: 800px;
+      text-decoration: none;
+      color: black;
     }
 .bloc3 hr{
       position: relative;
