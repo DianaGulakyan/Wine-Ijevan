@@ -1,0 +1,476 @@
+body{
+    padding: 0;
+    margin: 0;   
+}
+.headr{
+    background-color: white;
+    width: 1400px;
+    height: 80px;
+    border-radius: 15px;
+    position: relative;
+    bottom: 3820px;
+    left: 60px;
+}
+.headr img{
+    width: 60px;
+    height: 70px;
+    margin-left: 90px;
+}
+.headr select{
+    position: relative;
+    bottom: 50px;
+    left: 250px;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px 0 0 5px ;
+}
+.headr input{
+    width: 600px;
+    height: 40px;
+    position: relative;
+    bottom:50.5px;
+    left: 245.5px;
+    
+}
+.dv{
+    background-color: rgb(6, 6, 189);
+    width: 50px;
+    height: 40px;
+    border-radius: 5px;
+    position: relative;
+    bottom: 90px;
+    left: 900px;
+}
+.srch {
+    position: relative;
+    bottom: 145px;
+    left: 805px;
+}
+.headr a{
+    margin-left: 1000px;
+    color: black;
+    position: relative;
+    bottom: 180px;
+    right: 40px;
+}
+.headr button{
+    background-color: rgb(31, 31, 218);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    bottom: 180px;
+    right: 10px;
+}
+.bloc1 img{
+    width: 1520px;
+    height: 550px;
+}
+.bloc1 h2{
+    color: white;
+    position: relative;
+    bottom: 280px;
+    left: 500px;
+    font-size: 50px;
+    width: 800px;
+}
+.bloc1 button{
+    border: none;
+    background-color: rgb(109, 2, 224);
+    color: white;
+    width: 400px;
+    height: 50px;
+    position: relative;
+    bottom: 280px;
+    left: 600px;
+    font-size: 20px;
+}
+.elips{
+    display: flex;
+    position: relative;
+    bottom: 230px;
+    left: 750px;
+    gap: 20px;
+    width: 300px;
+
+}
+.elips img{
+    width: 10px;
+    height: 10px;
+}
+.bloc2 {
+    background-color: rgb(201, 215, 221);
+    width: 1520px;
+    height: 80px;
+    position: relative;
+    bottom: 206px;
+    display: flex;
+    gap: 60px;
+}
+.h1p {
+    display: flex;
+    gap: 5px;
+    padding: 10px;
+}
+.h1p p{
+    margin-top: 27px;
+    margin-left: 10px;
+    color: rgb(149, 149, 149);
+}
+.bloc3 a{
+    text-decoration: none;
+    color: black;
+}
+.bloc3 hr{
+    position: relative;
+    bottom: 300px;
+    width: 1500px;
+    
+  }
+.p1{
+    position: relative;
+    bottom: 200px;
+    left: 100px;
+    width: 150px;
+    
+}
+.p2{
+    position: relative;
+    bottom: 235px;
+    left: 180px; 
+    
+}
+.p3{
+    position: relative;
+    bottom: 270px;
+    left: 260px;
+    width: 200px;
+    
+}
+.p4{
+    position: relative;
+    bottom: 305px;
+    left: 390px;
+    
+}
+.bloc3 img {
+    width: 70px;
+    position: relative;
+    bottom: 325px;
+    left: 100px;
+}
+.bloc4 {
+    display: flex;
+    gap: 40px;
+    width: 1400px;
+    margin-left: 100px;
+    position: relative;
+    bottom: 270px;
+    line-height: 25px;
+}
+.bloc4 h1{
+    margin-bottom: 40px;
+}
+.qart {
+    width: 710px;
+    height: 300px;
+    
+}
+.qar{
+    margin-left: 600px;
+    width: 100px;
+    height: 20px;
+    margin-bottom: 30px;
+}
+.dram{
+    display: flex;
+    gap: 20px;
+    width: 710px;
+    background-color: rgb(224, 224, 224);
+    border-radius: 5px;
+}
+.amd{
+  width: 50px;
+  height: 27px;
+  background-color: rgb(201, 199, 199);  
+  padding: 5px;
+  border-radius: 5px;
+}
+.amd1{
+    width: 50px;
+    height: 27px;
+    background-color: rgb(201, 199, 199);  
+    padding: 5px;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+.amdd{
+    width: 50px;
+  height: 27px;
+  background-color: rgb(4, 57, 204);  
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+}
+.year{
+    margin-top: 25px;
+    color: blue;
+    margin-left: 10px;
+}
+.year1{
+    margin-top: 25px;
+    margin-right: 20px;
+    
+}
+.bloc44{
+    margin-top: 100px;
+    
+}
+.bloc5{
+    width: 1400px;
+    height: 500px;
+    background-color: rgb(227, 235, 240);
+    position: relative;
+    bottom: 200px;
+    left: 60px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.kony{
+    background-color: white;
+    width: 250px; 
+    height: 260px;
+    border-radius: 10px;
+}
+.kony1{
+    background-color: white;
+    width: 250px; 
+    height: 260px; 
+    border-radius: 10px;
+}
+.kony2{
+    background-color: white;
+    width: 250px; 
+    height: 260px;
+    border-radius: 10px;
+}
+.kony3{
+    background-color: white;
+    width: 250px; 
+    height: 260px;
+    border-radius: 10px;
+}
+.vector{
+    width: 100px;
+    position: relative;
+    left:620px;
+    top: 60px;
+}
+.vec{
+    margin-left: 20px;
+}
+.konyak{
+    display: flex;
+    gap: 50px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.konyak img{
+   width: 100px;
+   height: 150px;
+   margin: 20px;
+   margin-left: 70px ;
+}
+.bt1 {
+    margin-left: 40px;
+    width: 170px;
+    height: 30px;
+    border:none;
+    border-radius: 5px;
+    background-color: rgb(3, 3, 173);
+    color: white;
+}
+.bt2 {
+    margin-left: 40px;
+    width: 170px;
+    height: 30px;
+    border:none;
+    border-radius: 5px;
+    background-color: rgb(3, 3, 173);
+    color: white;
+}
+.bt3 {
+    margin-left: 40px;
+    width: 170px;
+    height: 30px;
+    border:none;
+    border-radius: 5px;
+    background-color: rgb(3, 3, 173);
+    color: white;
+}
+.bt4 {
+    margin-left: 40px;
+    width: 170px;
+    height: 30px;
+    border:none;
+    border-radius: 5px;
+    background-color: rgb(3, 3, 173);
+    color: white;
+}
+.bt5 {
+    margin-left: 580px;
+    margin-top: 100px;
+    width: 180px;
+    height: 40px;
+    border:none;
+    border-radius: 3px;
+    background-color: rgb(3, 3, 173);
+    color: white;
+}
+.product {
+    display: flex;
+    margin-left: 200px;
+    margin-top: 40px;
+   
+}
+.bloc6{
+    position: relative;
+    bottom: 100px;
+}
+.bloc6 img{
+    width: 450px;
+    height: 230px;
+    margin-left: 90px;
+    margin-top: 40px;
+}
+
+.bloc6 h1{
+    font-size: 30px;
+}
+.product ul li, p{
+    color: rgb(130, 130, 130);
+}
+.product li{
+    line-height: 20px;
+}
+
+.bloc7 img{
+    width: 1520px;
+    height: 550px;
+}
+
+.lorem{
+    position: relative;
+    bottom: 350px;
+    left: 140px;
+    color: white;
+    
+    
+}
+.lorem p, a{
+    color: white;
+}
+.lorem {
+    width: 500px;
+}
+.elipss{
+    display: flex;
+    position: relative;
+    bottom: 250px;
+    left: 720px;
+    gap: 20px;
+    width: 300px;
+
+}
+.elipss img{
+    width: 10px;
+    height: 10px;
+}
+
+.bloc8{
+    position: relative;
+    left: 200px;
+    bottom: 140px;
+    width: 1200px;
+}
+.qartez{
+    display: flex;
+    gap: 30px;
+    width: 1100px;
+}
+.qartez img{
+    width: 350px;
+    height: 250px;
+}
+.new {
+    width: 100px;
+    margin-left: 550px;
+    margin-bottom: 30px;
+}
+.lordiv {
+    display: flex;
+    gap: 120px;
+}
+.lor a{
+    color: black;
+}
+.vect {
+    position: relative;
+    left: 530px;
+    top: 70px;
+    width: 100px;
+}
+
+.foter {
+    box-shadow: 4px 4px 17px 0px rgba(134, 134, 134, 0.15);
+    width: 1400px;
+    margin-left: 70px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    
+}
+.foot{
+    display: flex;
+    gap: 180px;
+    margin-left: 70px;
+}
+.foot1 img{
+    width: 70px;
+    height: 90px;
+    position: relative;
+    top: 40px;
+    left: 70px;
+}
+.foot1 p{
+    margin-left: 70px;
+    margin-top: 40px;
+    color:rgba(24, 20, 163, 1);
+    line-height: 25px;
+}
+.foot ul li{
+    list-style: none;
+    line-height: 30px;
+    color: rgb(194, 194, 194);
+}
+.foot2{
+    margin-top: 40px;
+}
+.foot2 p{
+    margin-left: 40px;
+}
+.foot3{
+    margin-top: 40px;
+}
+.foot3 p{
+    margin-left: 40px;
+}
+.foot4 {
+    margin-top: 50px;
+
+}
+
+.fb{
+    margin-left: 20px;
+}
