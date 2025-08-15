@@ -1,0 +1,247 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(243, 243, 243);
+    
+}
+.headr{
+    background-color: rgb(248, 248, 248);
+    box-shadow: 4px 4px 17px 0px rgba(134, 134, 134, 0.15);
+    width: 1400px;
+    height: 80px;
+    border-radius: 15px;
+    position: relative;
+    top: 20px;
+    left: 60px;
+}
+.headr img{
+    width: 60px;
+    height: 70px;
+    margin-left: 90px;
+}
+.headr select{
+    position: relative;
+    bottom: 50px;
+    left: 250px;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px 0 0 5px ;
+}
+.headr input{
+    width: 600px;
+    height: 40px;
+    position: relative;
+    bottom: 50.5px;
+    left: 245.5px;
+    
+}
+.dv{
+    background-color: rgb(6, 6, 189);
+    width: 50px;
+    height: 40px;
+    border-radius: 5px;
+    position: relative;
+    bottom: 90px;
+    left: 900px;
+}
+.srch {
+    position: relative;
+    bottom: 145px;
+    left: 805px;
+}
+.headr a{
+    margin-left: 1000px;
+    color: black;
+    position: relative;
+    bottom: 180px;
+    right: 40px;
+}
+.headr button{
+    background-color: rgb(31, 31, 218);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    bottom: 180px;
+    right: 10px;
+}
+.bloc1 {
+    position: relative;
+    left: 70px;
+    top: 50px;
+    width: 500px;
+}
+.bloc1 h1{
+    font-size: 40px;
+    width: 300px;
+}
+.bloc1 select{
+    border: none;
+    width: 130px;
+    height: 40px;
+    border-radius: 5px ;
+    padding: 5px;
+    position: relative;
+    bottom: 10px;
+   
+}
+.sel {
+    margin-left: 20px;
+}
+.bloc2 {
+    position: relative;
+    top: 80px;
+    display: flex;
+    gap: 60px;
+    width: 1200px;
+    
+}
+.card{
+    background-color: white;
+    width: 630px;
+    height: 350px;
+    border-radius: 5px;
+    margin-left: 70px;
+    display: flex;
+}
+.bloc21 img{
+    width: 300px;
+    height: 300px;
+}
+.bloc22{
+    width:500px ;
+}
+.bloc22 img{
+    width: 280px;
+    height: 280px;
+    margin-right: 10px;
+}
+.text {
+    display: flex;
+    gap: 70px;
+}
+.text button{
+    border: none;
+    border-radius: 3px;
+    color: blue;
+    background-color: rgb(171, 171, 224);
+    width: 90px;
+    position: relative;
+    right: 25px;
+}
+.p20{
+ position: relative;
+ left: 30px;
+}
+.textp{
+    color: rgb(161, 161, 161);
+}
+.cardd {
+    position: relative;
+    top: 30px;
+}
+.bloc2 hr{
+    position: relative;
+    bottom: 100px;
+    width: 590px;
+    right: 410px;
+
+}
+.carddd{
+    display: flex;
+    gap: 90px;
+    position: relative;
+    bottom: 50px;
+    left: 190px;
+}
+.carddd button{
+    width: 250px;
+    height: 30px;
+    background-color: rgb(22, 22, 194);
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+.hr1{
+    position: relative;
+    bottom: 100px;
+    width: 590px;
+    right: 600px;
+}
+
+.bloc3{
+    position: relative;
+    top: 140px;
+    left: 600px;
+    width: 200px;
+}
+
+.foter {
+    box-shadow: 4px 4px 17px 0px rgba(200, 200, 200, 0.15);
+    background-color: white;
+    width: 1400px;
+    margin-left: 70px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+    position: relative;
+    top: 200px;
+    
+}
+.foot{
+    display: flex;
+    gap: 180px;
+    margin-left: 70px;
+}
+.foot1 img{
+    width: 70px;
+    height: 90px;
+    position: relative;
+    top: 40px;
+    left: 70px;
+}
+.foot1 p{
+    margin-left: 70px;
+    margin-top: 40px;
+    color:rgba(24, 20, 163, 1);
+    line-height: 25px;
+}
+.foot ul li{
+    list-style: none;
+    line-height: 30px;
+    color: rgb(194, 194, 194);
+}
+.foot2{
+    margin-top: 40px;
+}
+.foot2 p{
+    margin-left: 40px;
+}
+.foot3{
+    margin-top: 40px;
+}
+.foot3 p{
+    margin-left: 40px;
+}
+.foot4 {
+    margin-top: 50px;
+
+}
+
+.fb{
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

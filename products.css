@@ -337,8 +337,14 @@ body{
 .foot2{
     margin-top: 40px;
 }
+.foot2 p{
+    margin-left: 40px;
+}
 .foot3{
     margin-top: 40px;
+}
+.foot3 p{
+    margin-left: 40px;
 }
 .foot4 {
     margin-top: 50px;
